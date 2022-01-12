@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "databasename": "geoip",
+    "charset": "utf8",
+    "user": "geoip",
+    "password": "geoip",
+    "options": {}
+}
